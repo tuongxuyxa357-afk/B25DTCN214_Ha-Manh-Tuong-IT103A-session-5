@@ -1,0 +1,22 @@
+
+h1{
+    color:#1e90ff ;
+    text-align: center;
+}
+input{
+    border-color:#1e90ff;
+    height: 25px;
+    padding-left: 12px;
+}
+textarea{
+    border-color: #1e90ff;
+    height: 50px;
+    padding-left: 12px;
+}
+button{
+    background-color:#00bfff ;
+}
+form{
+    text-align: center
+    ;
+}
