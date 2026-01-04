@@ -1,0 +1,25 @@
+
+div{
+    background-color: #e6f7ff;
+}
+h1{
+    color: #177de2;
+}
+h2{
+    color: #1e90ff;
+}
+.p0{
+    color:#1e90ff;
+}
+*{
+    text-align: center;
+}
+.p1{
+    color:red;
+}
+.p3{
+    text-decoration: underline;
+}
+.p4{
+    font-weight: bold;
+}
